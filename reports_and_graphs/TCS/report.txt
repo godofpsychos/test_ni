@@ -1,0 +1,4 @@
+Total trades: 1471
+Winning trades: 1000
+Win rate: 67.98%
+Sharpe ratio: -0.47
