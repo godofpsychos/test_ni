@@ -33,8 +33,8 @@ PROJECT STRUCTURE
 ├── requirements.txt            Python dependencies
 ├── check_requirements.sh       Install required libraries
 ├── run.sh                      Pipeline entry point
-├── README.txt                  This file
-└── report.md / report.pdf      Final assignment report
+└── README.txt                  This file
+
 ```
 --------------------------------------------------
 QUICK START
