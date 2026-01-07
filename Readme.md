@@ -7,8 +7,8 @@ The system is organized into three clear processing stages, each producing artif
 --------------------------------------------------
 PROJECT STRUCTURE
 --------------------------------------------------
+```
 
-.
 ├── tick_data/                  (Input tick-level CSV data)
 │   └── sample_tick_data.csv
 │
@@ -35,7 +35,7 @@ PROJECT STRUCTURE
 ├── run.sh                      Pipeline entry point
 ├── README.txt                  This file
 └── report.md / report.pdf      Final assignment report
-
+```
 --------------------------------------------------
 QUICK START
 --------------------------------------------------
